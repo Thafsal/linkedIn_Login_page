@@ -1,0 +1,6 @@
+.email_err  , .password_err{
+    color: rgb(219, 48, 48);
+}
+input {
+    border: 1px solid rgb(228, 45, 45);
+}
